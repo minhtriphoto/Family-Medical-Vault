@@ -1,0 +1,6 @@
+{
+  "name": "Family Medical Vault",
+  "description": "Hệ thống lưu trữ và quản lý hồ sơ bệnh án online bảo mật cho gia đình",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
